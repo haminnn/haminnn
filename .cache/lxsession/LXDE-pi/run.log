@@ -1,0 +1,629 @@
+** Message: 18:10:39.134: environement.vala:58: Exporting primary_variable
+** Message: 18:10:39.134: environement.vala:59: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 18:10:39.134: environement.vala:150: confir_dirs is null, export : /etc/xdg
+** Message: 18:10:39.134: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 18:10:39.134: environement.vala:218: custom_data :
+** Message: 18:10:39.134: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 18:10:39.134: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 18:10:39.134: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 18:10:39.135: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.135: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 18:10:39.135: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 18:10:39.135: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.135: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:4870): WARNING **: 18:10:39.135: utils.vala:70: 그런 파일이나 디렉터리가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “GTK” 그룹의 “iGtk/ColorScheme” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “windows_manager/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “panel/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “dock/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “file_manager/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “desktop_manager/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “launcher_manager/autostart” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “composite_manager/command” 키가 없습니다
+** Message: 18:10:39.135: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “im1/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “im2/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “widget1/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “notification/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “keybindings/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “im_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “screensaver/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “power_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “audio_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “workspace_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “screenshot_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “message_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “upgrade_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “updates_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “updates_manager/timeout” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “crash_manager/command” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “crash_manager/dev_mode” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “crash_manager/timeout” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “upstart_user_session” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “proxy_manager/http” 키가 없습니다
+** Message: 18:10:39.136: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “a11y/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “xrandr/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “network_gui/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “webbrowser/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “email/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “pdf_reader/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “video_player/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “audio_player/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “images_display/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “text_editor/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “archive/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “charmap/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “calculator/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “spreadsheet/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “bittorent/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “document/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “webcam/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “burn/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “notes/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “disk_utility/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “Session” 그룹의 “tasks/command” 키가 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 “Keymap” 그룹이 없습니다
+** Message: 18:10:39.137: settings.vala:540: 키 파일에 있는 “State” 그룹의 “laptop_mode” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Dbus” 그룹의 “gnome” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “type” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “ubuntu_menuproxy” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “toolkit_integration” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “gtk/overlay_scrollbar_disable” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “qt/force_theme” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:540: 키 파일에 있는 “Environment” 그룹의 “qt/platform” 키가 없습니다
+** Message: 18:10:39.138: settings.vala:462: Monitoring: /etc/xdg/lxsession/LXDE-pi/desktop.conf
+** Message: 18:10:39.138: settings.vala:470: Desktop file is not in config home, monitoring creation of it
+** Message: 18:10:39.138: settings.vala:485: Monitoring home path: /home/pi/.config/lxsession/LXDE-pi/desktop.conf
+** Message: 18:10:39.139: environement.vala:79: Exporting variable
+** Message: 18:10:39.139: environement.vala:80: desktop_environnement XDG_CURRENT_DESKTOP
+** Message: 18:10:39.139: environement.vala:177: custom_config :
+** Message: 18:10:39.139: environement.vala:178: config_dirs :/etc/xdg
+** Message: 18:10:39.139: environement.vala:179: confir_dirs not null, export : /etc/xdg
+** Message: 18:10:39.139: environement.vala:184: Exporting XDG_CONFIG_DIRS
+** Message: 18:10:39.139: environement.vala:218: custom_data :
+** Message: 18:10:39.139: environement.vala:219: data_dirs :/usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 18:10:39.139: environement.vala:220: data_dirs not null, export : /usr/share/fkms:/usr/local/share:/usr/share/raspi-ui-overrides:/usr/share:/usr/share/gdm:/var/lib/menu-xdg
+** Message: 18:10:39.139: environement.vala:225: Exporting XDG_DATA_DIRS
+** Message: 18:10:39.139: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.139: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:4870): WARNING **: 18:10:39.139: utils.vala:70: 그런 파일이나 디렉터리가 없습니다
+** Message: 18:10:39.139: environement.vala:254: No entry in [Environment_variable]. 키 파일에 “Environment_variable” 그룹이 없습니다
+** Message: 18:10:39.144: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.144: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 18:10:39.144: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/conffiles.conf
+** Message: 18:10:39.144: options.vala:164: Activate xsettings_manager build-in
+** Message: 18:10:39.144: utils.vala:39: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.144: utils.vala:45: System system path location : /etc/xdg/lxsession/LXDE-pi/desktop.conf
+
+** (lxsession:4870): WARNING **: 18:10:39.144: utils.vala:70: 그런 파일이나 디렉터리가 없습니다
+xprop:  no such property "_NET_NUMBER_OF_DESKTOPS"
+xprop:  no such property "_NET_DESKTOP_NAMES"
+** Message: 18:10:39.159: app.vala:721: polkit separate
+** Message: 18:10:39.159: app.vala:721: polkit separate
+** Message: 18:10:39.164: app.vala:76: Launching lxpolkit 
+** Message: 18:10:39.165: utils.vala:138: Config system location : /etc/xdg/lxsession/LXDE-pi
+** Message: 18:10:39.165: utils.vala:144: System system path location : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 18:10:39.165: utils.vala:148: Final file used : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 18:10:39.165: autostart.vala:42: Autostart path : /etc/xdg/lxsession/LXDE-pi/autostart
+** Message: 18:10:39.170: app.vala:76: Launching lxpanel 
+** Message: 18:10:39.188: app.vala:76: Launching pcmanfm 
+** Message: 18:10:39.208: app.vala:76: Launching xscreensaver 
+** Message: 18:10:39.225: main.vala:41: lxpolkit is already running. Existing
+** Message: 18:10:39.228: app.vala:76: Launching xset 
+** Message: 18:10:39.234: app.vala:76: Launching xset 
+** Message: 18:10:39.241: app.vala:76: Launching xset 
+** Message: 18:10:39.247: options.vala:107: Create build-in Clipboard
+** Message: 18:10:39.253: main.vala:441: Check keymap_mode (null)
+** Message: 18:10:39.268: x-terminal-emulator has very limited support, consider choose another terminal
+server does not have extension for -dpms option
+** Message: 18:10:39.279: app.vala:76: Launching /usr/bin/ssh-agent 
+SSH_AUTH_SOCK=/tmp/ssh-m06a7aPIEbPb/agent.5113; export SSH_AUTH_SOCK;
+SSH_AGENT_PID=5120; export SSH_AGENT_PID;
+echo Agent pid 5120;
+** Message: 18:10:39.294: x-terminal-emulator has very limited support, consider choose another terminal
+
+** (lxsession:4870): WARNING **: 18:10:39.306: main.vala:498: Could not acquire name
+
+** Message: 18:10:39.307: app.vala:130: lxpolkit exit with this type of exit: 0
+** Message: 18:10:39.307: app.vala:139: Exit normal, don't reload
+** Message: 18:10:39.307: app.vala:130: xset exit with this type of exit: 0
+** Message: 18:10:39.307: app.vala:139: Exit normal, don't reload
+** Message: 18:10:39.307: app.vala:130: xset exit with this type of exit: 0
+** Message: 18:10:39.307: app.vala:139: Exit normal, don't reload
+** Message: 18:10:39.307: app.vala:130: xset exit with this type of exit: 0
+** Message: 18:10:39.307: app.vala:139: Exit normal, don't reload
+** Message: 18:10:39.307: app.vala:130: /usr/bin/ssh-agent exit with this type of exit: 0
+Openbox-Message: Requested key "XF86AudioRaiseVolume" does not exist on the display
+Openbox-Message: Requested key "XF86AudioLowerVolume" does not exist on the display
+Openbox-Message: Requested key "XF86AudioMute" does not exist on the display
+grep: /home/pi/.config/lxpanel/LXDE-pi/panels/*: 그런 파일이나 디렉터리가 없습니다
+Openbox-Message: Unable to find a valid menu file "/usr/share/lxde/openbox/menu.xml"
+** Message: 18:10:39.865: Connecting ...
+** Message: 18:10:39.865: Status changed to down
+Unit pt-device-manager.service could not be found.
+
+** (lxpanel:5106): WARNING **: 18:10:40.212: Battery 0 not found
+** Message: 18:10:40.867: Status changed to opened
+** Message: 18:10:40.867: Connected to dhcpcd-8.1.2
+** Message: 18:10:40.868: Status changed to connected
+** Message: 18:10:40.868: eth0: Link is down
+** Message: 18:10:40.868: wlan0: Associated with hamin
+** Message: 18:10:40.868: wlan0: Configured 192.168.0.5/24
+** Message: 18:10:40.870: wlan0: WPA status connected
+** Message: 18:10:40.870: wlan0: Received scan results
+** Message: 18:10:51.930: wlan0: Received scan results
+** Message: 18:11:43.890: wlan0: Received scan results
+** Message: 18:11:51.925: wlan0: Received scan results
+** Message: 18:12:43.891: wlan0: Received scan results
+** Message: 18:12:51.936: wlan0: Received scan results
+** Message: 18:13:43.888: wlan0: Received scan results
+** Message: 18:13:51.927: wlan0: Received scan results
+** Message: 18:14:43.897: wlan0: Received scan results
+** Message: 18:14:51.930: wlan0: Received scan results
+** Message: 18:15:43.895: wlan0: Received scan results
+** Message: 18:15:51.936: wlan0: Received scan results
+** Message: 18:16:43.890: wlan0: Received scan results
+** Message: 18:16:51.943: wlan0: Received scan results
+** Message: 18:17:43.895: wlan0: Received scan results
+** Message: 18:17:51.936: wlan0: Received scan results
+** Message: 18:18:43.897: wlan0: Received scan results
+** Message: 18:18:51.936: wlan0: Received scan results
+** Message: 18:19:43.894: wlan0: Received scan results
+** Message: 18:19:51.943: wlan0: Received scan results
+** Message: 18:20:43.898: wlan0: Received scan results
+** Message: 18:20:51.931: wlan0: Received scan results
+** Message: 18:21:43.895: wlan0: Received scan results
+** Message: 18:21:51.939: wlan0: Received scan results
+** Message: 18:22:43.897: wlan0: Received scan results
+** Message: 18:22:51.938: wlan0: Received scan results
+** Message: 18:23:43.905: wlan0: Received scan results
+** Message: 18:23:51.938: wlan0: Received scan results
+** Message: 18:24:43.905: wlan0: Received scan results
+** Message: 18:24:51.948: wlan0: Received scan results
+** Message: 18:25:43.905: wlan0: Received scan results
+** Message: 18:25:51.944: wlan0: Received scan results
+** Message: 18:26:43.900: wlan0: Received scan results
+** Message: 18:26:51.937: wlan0: Received scan results
+** Message: 18:27:43.902: wlan0: Received scan results
+** Message: 18:27:51.944: wlan0: Received scan results
+** Message: 18:28:43.908: wlan0: Received scan results
+** Message: 18:28:51.952: wlan0: Received scan results
+** Message: 18:29:43.908: wlan0: Received scan results
+** Message: 18:29:51.944: wlan0: Received scan results
+** Message: 18:30:43.906: wlan0: Received scan results
+** Message: 18:30:51.947: wlan0: Received scan results
+** Message: 18:31:43.906: wlan0: Received scan results
+** Message: 18:31:51.948: wlan0: Received scan results
+** Message: 18:32:43.910: wlan0: Received scan results
+** Message: 18:32:51.949: wlan0: Received scan results
+** Message: 18:33:43.907: wlan0: Received scan results
+** Message: 18:33:51.952: wlan0: Received scan results
+** Message: 18:34:43.911: wlan0: Received scan results
+** Message: 18:34:51.953: wlan0: Received scan results
+** Message: 18:35:43.912: wlan0: Received scan results
+** Message: 18:35:51.952: wlan0: Received scan results
+** Message: 18:36:43.913: wlan0: Received scan results
+** Message: 18:36:51.951: wlan0: Received scan results
+** Message: 18:37:43.920: wlan0: Received scan results
+** Message: 18:37:51.951: wlan0: Received scan results
+** Message: 18:38:43.914: wlan0: Received scan results
+** Message: 18:38:51.951: wlan0: Received scan results
+** Message: 18:39:43.917: wlan0: Received scan results
+** Message: 18:39:51.958: wlan0: Received scan results
+** Message: 18:40:43.919: wlan0: Received scan results
+** Message: 18:40:51.955: wlan0: Received scan results
+** Message: 18:41:43.916: wlan0: Received scan results
+** Message: 18:41:51.961: wlan0: Received scan results
+** Message: 18:42:43.921: wlan0: Received scan results
+** Message: 18:42:51.958: wlan0: Received scan results
+** Message: 18:43:43.919: wlan0: Received scan results
+libEGL warning: DRI2: failed to authenticate
+** Message: 18:43:51.960: wlan0: Received scan results
+[5590:5590:1030/184352.508756:ERROR:viz_main_impl.cc(150)] Exiting GPU process due to errors during initialization
+[5540:5732:1030/184353.245439:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.DBus.Properties.Get: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5540:5732:1030/184353.246315:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.GetDisplayDevice: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+[5540:5732:1030/184353.246926:ERROR:object_proxy.cc(621)] Failed to call method: org.freedesktop.UPower.EnumerateDevices: object_path= /org/freedesktop/UPower: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.UPower was not provided by any .service files
+** Message: 18:44:43.933: wlan0: Received scan results
+** Message: 18:44:51.971: wlan0: Received scan results
+** Message: 18:45:43.925: wlan0: Received scan results
+** Message: 18:45:51.970: wlan0: Received scan results
+** Message: 18:46:43.926: wlan0: Received scan results
+** Message: 18:46:51.954: wlan0: Received scan results
+** Message: 18:47:43.922: wlan0: Received scan results
+** Message: 18:47:51.958: wlan0: Received scan results
+** Message: 18:48:43.926: wlan0: Received scan results
+** Message: 18:48:51.967: wlan0: Received scan results
+** Message: 18:49:43.932: wlan0: Received scan results
+** Message: 18:49:51.961: wlan0: Received scan results
+** Message: 18:50:43.925: wlan0: Received scan results
+** Message: 18:50:51.959: wlan0: Received scan results
+** Message: 18:51:43.925: wlan0: Received scan results
+** Message: 18:51:51.981: wlan0: Received scan results
+** Message: 18:52:43.940: wlan0: Received scan results
+** Message: 18:52:51.966: wlan0: Received scan results
+** Message: 18:53:43.936: wlan0: Received scan results
+** Message: 18:53:51.962: wlan0: Received scan results
+** Message: 18:54:43.925: wlan0: Received scan results
+** Message: 18:54:51.972: wlan0: Received scan results
+** Message: 18:55:43.938: wlan0: Received scan results
+** Message: 18:55:51.970: wlan0: Received scan results
+** Message: 18:56:43.933: wlan0: Received scan results
+** Message: 18:56:51.968: wlan0: Received scan results
+** Message: 18:57:43.929: wlan0: Received scan results
+** Message: 18:57:51.973: wlan0: Received scan results
+** Message: 18:58:43.937: wlan0: Received scan results
+** Message: 18:58:51.968: wlan0: Received scan results
+** Message: 18:59:43.938: wlan0: Received scan results
+** Message: 18:59:51.970: wlan0: Received scan results
+** Message: 19:00:43.938: wlan0: Received scan results
+** Message: 19:00:51.974: wlan0: Received scan results
+** Message: 19:01:43.939: wlan0: Received scan results
+** Message: 19:01:51.973: wlan0: Received scan results
+** Message: 19:02:43.939: wlan0: Received scan results
+** Message: 19:02:51.973: wlan0: Received scan results
+** Message: 19:03:43.938: wlan0: Received scan results
+** Message: 19:03:51.974: wlan0: Received scan results
+** Message: 19:04:43.943: wlan0: Received scan results
+** Message: 19:04:51.980: wlan0: Received scan results
+** Message: 19:05:43.950: wlan0: Received scan results
+** Message: 19:05:51.976: wlan0: Received scan results
+** Message: 19:06:43.945: wlan0: Received scan results
+** Message: 19:06:51.978: wlan0: Received scan results
+** Message: 19:07:43.948: wlan0: Received scan results
+** Message: 19:07:51.980: wlan0: Received scan results
+** Message: 19:08:43.943: wlan0: Received scan results
+** Message: 19:08:51.977: wlan0: Received scan results
+** Message: 19:09:43.944: wlan0: Received scan results
+** Message: 19:09:51.977: wlan0: Received scan results
+** Message: 19:10:43.948: wlan0: Received scan results
+** Message: 19:10:51.983: wlan0: Received scan results
+** Message: 19:11:43.946: wlan0: Received scan results
+** Message: 19:11:51.985: wlan0: Received scan results
+** Message: 19:12:43.944: wlan0: Received scan results
+** Message: 19:12:51.979: wlan0: Received scan results
+** Message: 19:13:43.950: wlan0: Received scan results
+** Message: 19:13:51.986: wlan0: Received scan results
+** Message: 19:14:43.952: wlan0: Received scan results
+** Message: 19:14:51.985: wlan0: Received scan results
+** Message: 19:15:43.944: wlan0: Received scan results
+** Message: 19:15:51.994: wlan0: Received scan results
+** Message: 19:16:43.949: wlan0: Received scan results
+** Message: 19:16:51.984: wlan0: Received scan results
+** Message: 19:17:43.956: wlan0: Received scan results
+** Message: 19:17:51.989: wlan0: Received scan results
+** Message: 19:18:43.953: wlan0: Received scan results
+** Message: 19:18:51.990: wlan0: Received scan results
+** Message: 19:19:43.949: wlan0: Received scan results
+** Message: 19:19:51.988: wlan0: Received scan results
+** Message: 19:20:43.951: wlan0: Received scan results
+** Message: 19:20:51.987: wlan0: Received scan results
+** Message: 19:21:43.957: wlan0: Received scan results
+** Message: 19:21:51.989: wlan0: Received scan results
+** Message: 19:22:43.955: wlan0: Received scan results
+** Message: 19:22:51.995: wlan0: Received scan results
+** Message: 19:23:43.966: wlan0: Received scan results
+** Message: 19:23:52.001: wlan0: Received scan results
+** Message: 19:24:43.964: wlan0: Received scan results
+** Message: 19:24:52.001: wlan0: Received scan results
+** Message: 19:25:43.954: wlan0: Received scan results
+** Message: 19:25:51.996: wlan0: Received scan results
+** Message: 19:26:43.986: wlan0: Received scan results
+** Message: 19:26:52.001: wlan0: Received scan results
+** Message: 19:27:43.960: wlan0: Received scan results
+** Message: 19:27:51.999: wlan0: Received scan results
+** Message: 19:28:43.961: wlan0: Received scan results
+** Message: 19:28:51.995: wlan0: Received scan results
+** Message: 19:29:43.959: wlan0: Received scan results
+** Message: 19:29:52.003: wlan0: Received scan results
+** Message: 19:30:43.965: wlan0: Received scan results
+** Message: 19:30:52.000: wlan0: Received scan results
+** Message: 19:31:43.961: wlan0: Received scan results
+** Message: 19:31:51.999: wlan0: Received scan results
+** Message: 19:32:43.961: wlan0: Received scan results
+** Message: 19:32:51.999: wlan0: Received scan results
+** Message: 19:33:43.968: wlan0: Received scan results
+** Message: 19:33:52.003: wlan0: Received scan results
+** Message: 19:34:43.968: wlan0: Received scan results
+** Message: 19:34:52.000: wlan0: Received scan results
+** Message: 19:35:43.967: wlan0: Received scan results
+** Message: 19:35:52.005: wlan0: Received scan results
+** Message: 19:36:43.974: wlan0: Received scan results
+** Message: 19:36:52.008: wlan0: Received scan results
+** Message: 19:37:43.969: wlan0: Received scan results
+** Message: 19:37:52.002: wlan0: Received scan results
+** Message: 19:38:43.965: wlan0: Received scan results
+** Message: 19:38:52.009: wlan0: Received scan results
+** Message: 19:39:43.976: wlan0: Received scan results
+** Message: 19:39:52.010: wlan0: Received scan results
+** Message: 19:40:43.976: wlan0: Received scan results
+** Message: 19:40:52.022: wlan0: Received scan results
+** Message: 19:41:43.971: wlan0: Received scan results
+** Message: 19:41:52.010: wlan0: Received scan results
+** Message: 19:42:43.971: wlan0: Received scan results
+** Message: 19:42:52.015: wlan0: Received scan results
+** Message: 19:43:43.984: wlan0: Received scan results
+** Message: 19:43:52.008: wlan0: Received scan results
+** Message: 19:44:43.984: wlan0: Received scan results
+** Message: 19:44:52.035: wlan0: Received scan results
+** Message: 19:45:43.968: wlan0: Received scan results
+** Message: 19:45:52.011: wlan0: Received scan results
+** Message: 19:46:43.974: wlan0: Received scan results
+** Message: 19:46:52.010: wlan0: Received scan results
+** Message: 19:47:43.977: wlan0: Received scan results
+** Message: 19:47:52.015: wlan0: Received scan results
+** Message: 19:48:43.981: wlan0: Received scan results
+** Message: 19:48:52.013: wlan0: Received scan results
+** Message: 19:49:43.978: wlan0: Received scan results
+** Message: 19:49:52.015: wlan0: Received scan results
+** Message: 19:50:43.979: wlan0: Received scan results
+** Message: 19:50:52.017: wlan0: Received scan results
+** Message: 19:51:43.977: wlan0: Received scan results
+** Message: 19:51:52.015: wlan0: Received scan results
+** Message: 19:52:43.981: wlan0: Received scan results
+** Message: 19:52:52.017: wlan0: Received scan results
+** Message: 19:53:43.985: wlan0: Received scan results
+** Message: 19:53:52.023: wlan0: Received scan results
+** Message: 19:54:43.985: wlan0: Received scan results
+** Message: 19:54:52.018: wlan0: Received scan results
+** Message: 19:55:43.981: wlan0: Received scan results
+** Message: 19:55:52.028: wlan0: Received scan results
+** Message: 19:56:43.984: wlan0: Received scan results
+** Message: 19:56:52.026: wlan0: Received scan results
+** Message: 19:57:43.987: wlan0: Received scan results
+** Message: 19:57:52.024: wlan0: Received scan results
+** Message: 19:58:43.990: wlan0: Received scan results
+** Message: 19:58:52.023: wlan0: Received scan results
+** Message: 19:59:43.987: wlan0: Received scan results
+** Message: 19:59:52.025: wlan0: Received scan results
+** Message: 20:00:43.991: wlan0: Received scan results
+** Message: 20:00:52.030: wlan0: Received scan results
+** Message: 20:01:43.989: wlan0: Received scan results
+** Message: 20:01:52.030: wlan0: Received scan results
+** Message: 20:02:43.984: wlan0: Received scan results
+** Message: 20:02:52.027: wlan0: Received scan results
+** Message: 20:03:43.999: wlan0: Received scan results
+** Message: 20:03:52.034: wlan0: Received scan results
+** Message: 20:04:43.992: wlan0: Received scan results
+** Message: 20:04:52.034: wlan0: Received scan results
+** Message: 20:05:43.997: wlan0: Received scan results
+** Message: 20:05:52.033: wlan0: Received scan results
+** Message: 20:06:43.996: wlan0: Received scan results
+** Message: 20:06:52.033: wlan0: Received scan results
+** Message: 20:07:43.999: wlan0: Received scan results
+** Message: 20:07:52.031: wlan0: Received scan results
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ** Message: 18:10:51.929: wlan0: Received scan results
+** Message: 18:11:43.891: wlan0: Received scan results
+** Message: 18:11:51.925: wlan0: Received scan results
+** Message: 18:12:43.891: wlan0: Received scan results
+** Message: 18:12:51.935: wlan0: Received scan results
+** Message: 18:13:43.888: wlan0: Received scan results
+** Message: 18:13:51.927: wlan0: Received scan results
+** Message: 18:14:43.897: wlan0: Received scan results
+** Message: 18:14:51.930: wlan0: Received scan results
+** Message: 18:15:43.895: wlan0: Received scan results
+** Message: 18:15:51.936: wlan0: Received scan results
+** Message: 18:16:43.891: wlan0: Received scan results
+** Message: 18:16:51.943: wlan0: Received scan results
+** Message: 18:17:43.894: wlan0: Received scan results
+** Message: 18:17:51.936: wlan0: Received scan results
+** Message: 18:18:43.897: wlan0: Received scan results
+** Message: 18:18:51.936: wlan0: Received scan results
+** Message: 18:19:43.894: wlan0: Received scan results
+** Message: 18:19:51.943: wlan0: Received scan results
+** Message: 18:20:43.898: wlan0: Received scan results
+** Message: 18:20:51.931: wlan0: Received scan results
+** Message: 18:21:43.895: wlan0: Received scan results
+** Message: 18:21:51.939: wlan0: Received scan results
+** Message: 18:22:43.897: wlan0: Received scan results
+** Message: 18:22:51.938: wlan0: Received scan results
+** Message: 18:23:43.905: wlan0: Received scan results
+** Message: 18:23:51.939: wlan0: Received scan results
+** Message: 18:24:43.906: wlan0: Received scan results
+** Message: 18:24:51.949: wlan0: Received scan results
+** Message: 18:25:43.905: wlan0: Received scan results
+** Message: 18:25:51.944: wlan0: Received scan results
+** Message: 18:26:43.900: wlan0: Received scan results
+** Message: 18:26:51.937: wlan0: Received scan results
+** Message: 18:27:43.903: wlan0: Received scan results
+** Message: 18:27:51.944: wlan0: Received scan results
+** Message: 18:28:43.908: wlan0: Received scan results
+** Message: 18:28:51.952: wlan0: Received scan results
+** Message: 18:29:43.908: wlan0: Received scan results
+** Message: 18:29:51.944: wlan0: Received scan results
+** Message: 18:30:43.906: wlan0: Received scan results
+** Message: 18:30:51.947: wlan0: Received scan results
+** Message: 18:31:43.906: wlan0: Received scan results
+** Message: 18:31:51.948: wlan0: Received scan results
+** Message: 18:32:43.911: wlan0: Received scan results
+** Message: 18:32:51.949: wlan0: Received scan results
+** Message: 18:33:43.907: wlan0: Received scan results
+** Message: 18:33:51.951: wlan0: Received scan results
+** Message: 18:34:43.910: wlan0: Received scan results
+** Message: 18:34:51.953: wlan0: Received scan results
+** Message: 18:35:43.912: wlan0: Received scan results
+** Message: 18:35:51.952: wlan0: Received scan results
+** Message: 18:36:43.913: wlan0: Received scan results
+** Message: 18:36:51.951: wlan0: Received scan results
+** Message: 18:37:43.920: wlan0: Received scan results
+** Message: 18:37:51.951: wlan0: Received scan results
+** Message: 18:38:43.913: wlan0: Received scan results
+** Message: 18:38:51.951: wlan0: Received scan results
+** Message: 18:39:43.917: wlan0: Received scan results
+** Message: 18:39:51.958: wlan0: Received scan results
+** Message: 18:40:43.919: wlan0: Received scan results
+** Message: 18:40:51.955: wlan0: Received scan results
+** Message: 18:41:43.916: wlan0: Received scan results
+** Message: 18:41:51.961: wlan0: Received scan results
+** Message: 18:42:43.921: wlan0: Received scan results
+** Message: 18:42:51.958: wlan0: Received scan results
+** Message: 18:43:43.920: wlan0: Received scan results
+** Message: 18:43:51.961: wlan0: Received scan results
+** Message: 18:44:43.932: wlan0: Received scan results
+** Message: 18:44:51.971: wlan0: Received scan results
+** Message: 18:45:43.925: wlan0: Received scan results
+** Message: 18:45:51.970: wlan0: Received scan results
+** Message: 18:46:43.926: wlan0: Received scan results
+** Message: 18:46:51.954: wlan0: Received scan results
+** Message: 18:47:43.922: wlan0: Received scan results
+** Message: 18:47:51.959: wlan0: Received scan results
+** Message: 18:48:43.927: wlan0: Received scan results
+** Message: 18:48:51.967: wlan0: Received scan results
+** Message: 18:49:43.932: wlan0: Received scan results
+** Message: 18:49:51.960: wlan0: Received scan results
+** Message: 18:50:43.925: wlan0: Received scan results
+** Message: 18:50:51.959: wlan0: Received scan results
+** Message: 18:51:43.925: wlan0: Received scan results
+** Message: 18:51:51.981: wlan0: Received scan results
+** Message: 18:52:43.940: wlan0: Received scan results
+** Message: 18:52:51.966: wlan0: Received scan results
+** Message: 18:53:43.936: wlan0: Received scan results
+** Message: 18:53:51.962: wlan0: Received scan results
+** Message: 18:54:43.925: wlan0: Received scan results
+** Message: 18:54:51.973: wlan0: Received scan results
+** Message: 18:55:43.938: wlan0: Received scan results
+** Message: 18:55:51.970: wlan0: Received scan results
+** Message: 18:56:43.933: wlan0: Received scan results
+** Message: 18:56:51.968: wlan0: Received scan results
+** Message: 18:57:43.930: wlan0: Received scan results
+** Message: 18:57:51.973: wlan0: Received scan results
+** Message: 18:58:43.937: wlan0: Received scan results
+** Message: 18:58:51.968: wlan0: Received scan results
+** Message: 18:59:43.938: wlan0: Received scan results
+** Message: 18:59:51.971: wlan0: Received scan results
+** Message: 19:00:43.938: wlan0: Received scan results
+** Message: 19:00:51.974: wlan0: Received scan results
+** Message: 19:01:43.940: wlan0: Received scan results
+** Message: 19:01:51.973: wlan0: Received scan results
+** Message: 19:02:43.939: wlan0: Received scan results
+** Message: 19:02:51.973: wlan0: Received scan results
+** Message: 19:03:43.938: wlan0: Received scan results
+** Message: 19:03:51.974: wlan0: Received scan results
+** Message: 19:04:43.942: wlan0: Received scan results
+** Message: 19:04:51.980: wlan0: Received scan results
+** Message: 19:05:43.951: wlan0: Received scan results
+** Message: 19:05:51.976: wlan0: Received scan results
+** Message: 19:06:43.945: wlan0: Received scan results
+** Message: 19:06:51.978: wlan0: Received scan results
+** Message: 19:07:43.948: wlan0: Received scan results
+** Message: 19:07:51.980: wlan0: Received scan results
+** Message: 19:08:43.943: wlan0: Received scan results
+** Message: 19:08:51.977: wlan0: Received scan results
+** Message: 19:09:43.943: wlan0: Received scan results
+** Message: 19:09:51.976: wlan0: Received scan results
+** Message: 19:10:43.948: wlan0: Received scan results
+** Message: 19:10:51.983: wlan0: Received scan results
+** Message: 19:11:43.946: wlan0: Received scan results
+** Message: 19:11:51.985: wlan0: Received scan results
+** Message: 19:12:43.945: wlan0: Received scan results
+** Message: 19:12:51.979: wlan0: Received scan results
+** Message: 19:13:43.950: wlan0: Received scan results
+** Message: 19:13:51.986: wlan0: Received scan results
+** Message: 19:14:43.953: wlan0: Received scan results
+** Message: 19:14:51.985: wlan0: Received scan results
+** Message: 19:15:43.944: wlan0: Received scan results
+** Message: 19:15:51.994: wlan0: Received scan results
+** Message: 19:16:43.948: wlan0: Received scan results
+** Message: 19:16:51.984: wlan0: Received scan results
+** Message: 19:17:43.956: wlan0: Received scan results
+** Message: 19:17:51.989: wlan0: Received scan results
+** Message: 19:18:43.953: wlan0: Received scan results
+** Message: 19:18:51.989: wlan0: Received scan results
+** Message: 19:19:43.950: wlan0: Received scan results
+** Message: 19:19:51.989: wlan0: Received scan results
+** Message: 19:20:43.951: wlan0: Received scan results
+** Message: 19:20:51.987: wlan0: Received scan results
+** Message: 19:21:43.957: wlan0: Received scan results
+** Message: 19:21:51.989: wlan0: Received scan results
+** Message: 19:22:43.956: wlan0: Received scan results
+** Message: 19:22:51.995: wlan0: Received scan results
+** Message: 19:23:43.963: wlan0: Received scan results
+** Message: 19:23:52.001: wlan0: Received scan results
+** Message: 19:24:43.963: wlan0: Received scan results
+** Message: 19:24:52.001: wlan0: Received scan results
+** Message: 19:25:43.955: wlan0: Received scan results
+** Message: 19:25:51.996: wlan0: Received scan results
+** Message: 19:26:43.986: wlan0: Received scan results
+** Message: 19:26:52.001: wlan0: Received scan results
+** Message: 19:27:43.961: wlan0: Received scan results
+** Message: 19:27:51.999: wlan0: Received scan results
+** Message: 19:28:43.961: wlan0: Received scan results
+** Message: 19:28:51.995: wlan0: Received scan results
+** Message: 19:29:43.959: wlan0: Received scan results
+** Message: 19:29:52.004: wlan0: Received scan results
+** Message: 19:30:43.965: wlan0: Received scan results
+** Message: 19:30:52.000: wlan0: Received scan results
+** Message: 19:31:43.962: wlan0: Received scan results
+** Message: 19:31:51.999: wlan0: Received scan results
+** Message: 19:32:43.961: wlan0: Received scan results
+** Message: 19:32:51.998: wlan0: Received scan results
+** Message: 19:33:43.968: wlan0: Received scan results
+** Message: 19:33:52.003: wlan0: Received scan results
+** Message: 19:34:43.968: wlan0: Received scan results
+** Message: 19:34:52.000: wlan0: Received scan results
+** Message: 19:35:43.967: wlan0: Received scan results
+** Message: 19:35:52.005: wlan0: Received scan results
+** Message: 19:36:43.974: wlan0: Received scan results
+** Message: 19:36:52.008: wlan0: Received scan results
+** Message: 19:37:43.970: wlan0: Received scan results
+** Message: 19:37:52.002: wlan0: Received scan results
+** Message: 19:38:43.966: wlan0: Received scan results
+** Message: 19:38:52.009: wlan0: Received scan results
+** Message: 19:39:43.976: wlan0: Received scan results
+** Message: 19:39:52.010: wlan0: Received scan results
+** Message: 19:40:43.976: wlan0: Received scan results
+** Message: 19:40:52.023: wlan0: Received scan results
+** Message: 19:41:43.972: wlan0: Received scan results
+** Message: 19:41:52.009: wlan0: Received scan results
+** Message: 19:42:43.971: wlan0: Received scan results
+** Message: 19:42:52.015: wlan0: Received scan results
+** Message: 19:43:43.984: wlan0: Received scan results
+** Message: 19:43:52.008: wlan0: Received scan results
+** Message: 19:44:43.984: wlan0: Received scan results
+** Message: 19:44:52.036: wlan0: Received scan results
+** Message: 19:45:43.968: wlan0: Received scan results
+** Message: 19:45:52.012: wlan0: Received scan results
+** Message: 19:46:43.974: wlan0: Received scan results
+** Message: 19:46:52.011: wlan0: Received scan results
+** Message: 19:47:43.977: wlan0: Received scan results
+** Message: 19:47:52.015: wlan0: Received scan results
+** Message: 19:48:43.981: wlan0: Received scan results
+** Message: 19:48:52.013: wlan0: Received scan results
+** Message: 19:49:43.979: wlan0: Received scan results
+** Message: 19:49:52.015: wlan0: Received scan results
+** Message: 19:50:43.979: wlan0: Received scan results
+** Message: 19:50:52.017: wlan0: Received scan results
+** Message: 19:51:43.977: wlan0: Received scan results
+** Message: 19:51:52.015: wlan0: Received scan results
+** Message: 19:52:43.982: wlan0: Received scan results
+** Message: 19:52:52.017: wlan0: Received scan results
+** Message: 19:53:43.985: wlan0: Received scan results
+** Message: 19:53:52.023: wlan0: Received scan results
+** Message: 19:54:43.985: wlan0: Received scan results
+** Message: 19:54:52.019: wlan0: Received scan results
+** Message: 19:55:43.981: wlan0: Received scan results
+** Message: 19:55:52.027: wlan0: Received scan results
+** Message: 19:56:43.984: wlan0: Received scan results
+** Message: 19:56:52.026: wlan0: Received scan results
+** Message: 19:57:43.987: wlan0: Received scan results
+** Message: 19:57:52.024: wlan0: Received scan results
+** Message: 19:58:43.991: wlan0: Received scan results
+** Message: 19:58:52.023: wlan0: Received scan results
+** Message: 19:59:43.986: wlan0: Received scan results
+** Message: 19:59:52.025: wlan0: Received scan results
+** Message: 20:00:43.992: wlan0: Received scan results
+** Message: 20:00:52.030: wlan0: Received scan results
+** Message: 20:01:43.989: wlan0: Received scan results
+** Message: 20:01:52.030: wlan0: Received scan results
+** Message: 20:02:43.985: wlan0: Received scan results
+** Message: 20:02:52.026: wlan0: Received scan results
+** Message: 20:03:43.999: wlan0: Received scan results
+** Message: 20:03:52.034: wlan0: Received scan results
+** Message: 20:04:43.992: wlan0: Received scan results
+** Message: 20:04:52.033: wlan0: Received scan results
+** Message: 20:05:43.997: wlan0: Received scan results
+** Message: 20:05:52.033: wlan0: Received scan results
+** Message: 20:06:43.997: wlan0: Received scan results
+** Message: 20:06:52.033: wlan0: Received scan results
+** Message: 20:07:43.999: wlan0: Received scan results
+** Message: 20:07:52.031: wlan0: Received scan results

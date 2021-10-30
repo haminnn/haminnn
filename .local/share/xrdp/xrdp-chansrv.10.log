@@ -1,0 +1,10 @@
+[20211030-18:10:37] [CORE ] main: app started pid 4882(0x00001312)
+[20211030-18:10:37] [INFO ] main: DISPLAY env var set to :10.0
+[20211030-18:10:37] [INFO ] main: using DISPLAY 10
+[20211030-18:10:37] [INFO ] channel_thread_loop: thread start
+[20211030-18:10:37] [INFO ] Socket 12: AF_UNIX connection received
+[20211030-19:39:52] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000216
+[20211030-19:59:51] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000216
+[20211030-20:00:16] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000216
+[20211030-20:00:27] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000216
+[20211030-20:06:08] [ERROR] clipboard_event_selection_request: unknown target unknown atom 0x00000216

@@ -1,0 +1,74 @@
+0 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', '-g', 'npm@6.14.15' ]
+1 info using npm@8.1.2
+2 info using node@v17.0.1
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 5ms
+5 timing config:load:file:/usr/lib/node_modules/npm/npmrc Completed in 4ms
+6 timing config:load:builtin Completed in 4ms
+7 timing config:load:cli Completed in 6ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:project Completed in 2ms
+10 timing config:load:file:/home/pi/.npmrc Completed in 1ms
+11 timing config:load:user Completed in 1ms
+12 timing config:load:file:/usr/etc/npmrc Completed in 1ms
+13 timing config:load:global Completed in 1ms
+14 timing config:load:validate Completed in 0ms
+15 timing config:load:credentials Completed in 4ms
+16 timing config:load:setEnvs Completed in 2ms
+17 timing config:load Completed in 26ms
+18 timing npm:load:configload Completed in 26ms
+19 timing npm:load:setTitle Completed in 1ms
+20 timing npm:load:setupLog Completed in 1ms
+21 timing config:load:flatten Completed in 9ms
+22 timing npm:load:cleanupLog Completed in 6ms
+23 timing npm:load:configScope Completed in 0ms
+24 timing npm:load:projectScope Completed in 0ms
+25 timing npm:load Completed in 48ms
+26 timing arborist:ctor Completed in 2ms
+27 timing idealTree:init Completed in 13ms
+28 timing idealTree:userRequests Completed in 5ms
+29 silly idealTree buildDeps
+30 silly fetch manifest npm@6.14.15
+31 http fetch GET 200 https://registry.npmjs.org/npm 44ms (cache hit)
+32 silly placeDep ROOT npm@6.14.15 OK for:  want: 6.14.15
+33 timing idealTree:#root Completed in 117ms
+34 timing idealTree:node_modules/npm Completed in 0ms
+35 timing idealTree:buildDeps Completed in 121ms
+36 timing idealTree:fixDepFlags Completed in 2ms
+37 timing idealTree Completed in 143ms
+38 timing reify:loadTrees Completed in 697ms
+39 timing reify:diffTrees Completed in 16ms
+40 silly reify mark retired [ '/usr/lib/node_modules/npm', '/usr/bin/npm', '/usr/bin/npx' ]
+41 silly reify moves {
+41 silly reify   '/usr/lib/node_modules/npm': '/usr/lib/node_modules/.npm-qUIFSsiV',
+41 silly reify   '/usr/bin/npm': '/usr/bin/.npm-CxSgn0z2',
+41 silly reify   '/usr/bin/npx': '/usr/bin/.npx-akSQqeWh'
+41 silly reify }
+42 timing reify:rollback:retireShallow Completed in 3ms
+43 timing command:install Completed in 1337ms
+44 verbose stack Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'
+45 verbose cwd /home/pi
+46 verbose Linux 5.10.17-v7l+
+47 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "-g" "npm@6.14.15"
+48 verbose node v17.0.1
+49 verbose npm  v8.1.2
+50 error code EACCES
+51 error syscall rename
+52 error path /usr/lib/node_modules/npm
+53 error dest /usr/lib/node_modules/.npm-qUIFSsiV
+54 error errno -13
+55 error Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'
+55 error  [Error: EACCES: permission denied, rename '/usr/lib/node_modules/npm' -> '/usr/lib/node_modules/.npm-qUIFSsiV'] {
+55 error   errno: -13,
+55 error   code: 'EACCES',
+55 error   syscall: 'rename',
+55 error   path: '/usr/lib/node_modules/npm',
+55 error   dest: '/usr/lib/node_modules/.npm-qUIFSsiV'
+55 error }
+56 error The operation was rejected by your operating system.
+56 error It is likely you do not have the permissions to access this file as the current user
+56 error
+56 error If you believe this might be a permissions issue, please double-check the
+56 error permissions of the file and its containing directories, or try running
+56 error the command again as root/Administrator.
+57 verbose exit -13

@@ -1,0 +1,37 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install' ]
+2 info using npm@6.14.12
+3 info using node@v10.24.1
+4 verbose npm-session 46dbf9dc493d3d5a
+5 silly install runPreinstallTopLevelLifecycles
+6 silly preinstall MMM-GoogleAssistant@
+7 info lifecycle MMM-GoogleAssistant@~preinstall: MMM-GoogleAssistant@
+8 verbose lifecycle MMM-GoogleAssistant@~preinstall: unsafe-perm in lifecycle true
+9 verbose lifecycle MMM-GoogleAssistant@~preinstall: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/pi/MagicMirror/modules/MMM-GoogleAssistant/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
+10 verbose lifecycle MMM-GoogleAssistant@~preinstall: CWD: /home/pi/MagicMirror/modules/MMM-GoogleAssistant
+11 silly lifecycle MMM-GoogleAssistant@~preinstall: Args: [ '-c', 'installer/preinstall.sh' ]
+12 silly lifecycle MMM-GoogleAssistant@~preinstall: Returned: code: 255  signal: null
+13 info lifecycle MMM-GoogleAssistant@~preinstall: Failed to exec preinstall script
+14 timing stage:rollbackFailedOptional Completed in 2ms
+15 timing stage:runTopLevelLifecycles Completed in 908ms
+16 verbose stack Error: MMM-GoogleAssistant@ preinstall: `installer/preinstall.sh`
+16 verbose stack Exit status 255
+16 verbose stack     at EventEmitter.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/index.js:332:16)
+16 verbose stack     at EventEmitter.emit (events.js:198:13)
+16 verbose stack     at ChildProcess.<anonymous> (/usr/lib/node_modules/npm/node_modules/npm-lifecycle/lib/spawn.js:55:14)
+16 verbose stack     at ChildProcess.emit (events.js:198:13)
+16 verbose stack     at maybeClose (internal/child_process.js:982:16)
+16 verbose stack     at Process.ChildProcess._handle.onexit (internal/child_process.js:259:5)
+17 verbose pkgid MMM-GoogleAssistant@
+18 verbose cwd /home/pi/MagicMirror/modules/MMM-GoogleAssistant
+19 verbose Linux 5.10.17-v7l+
+20 verbose argv "/usr/bin/node" "/usr/bin/npm" "install"
+21 verbose node v10.24.1
+22 verbose npm  v6.14.12
+23 error code ELIFECYCLE
+24 error errno 255
+25 error MMM-GoogleAssistant@ preinstall: `installer/preinstall.sh`
+25 error Exit status 255
+26 error Failed at the MMM-GoogleAssistant@ preinstall script.
+26 error This is probably not a problem with npm. There is likely additional logging output above.
+27 verbose exit [ 255, true ]

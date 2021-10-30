@@ -1,0 +1,1247 @@
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 13:54.58.412] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 13:54.58.424] [LOG]   Loading config ...
+[08.10.2021 13:54.58.429] [LOG]   Loading module helpers ...
+[08.10.2021 13:54.58.446] [LOG]   Initializing new module helper ...
+[08.10.2021 13:54.58.447] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 13:54.58.448] [LOG]   No helper found for module: helloworld.
+[08.10.2021 13:54.58.449] [LOG]   All module helpers loaded.
+[08.10.2021 13:54.58.551] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 13:54.58.566] [LOG]   Server started ...
+[08.10.2021 13:54.58.567] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 13:54.58.568] [LOG]   Sockets connected & modules started ...
+[08.10.2021 13:54.59.502] [LOG]   Launching application.
+[08.10.2021 13:55.01.128] [INFO]  Checking git for module: default
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 14:03.40.469] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 14:03.40.476] [LOG]   Loading config ...
+[08.10.2021 14:03.40.482] [LOG]   Loading module helpers ...
+[08.10.2021 14:03.40.499] [LOG]   Initializing new module helper ...
+[08.10.2021 14:03.40.500] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 14:03.40.501] [LOG]   No helper found for module: helloworld.
+[08.10.2021 14:03.40.502] [LOG]   All module helpers loaded.
+[08.10.2021 14:03.40.604] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 14:03.40.620] [LOG]   Server started ...
+[08.10.2021 14:03.40.621] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 14:03.40.622] [LOG]   Sockets connected & modules started ...
+[08.10.2021 14:03.40.895] [LOG]   Launching application.
+[08.10.2021 14:03.42.400] [INFO]  Checking git for module: default
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 14:11.20.993] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 14:11.21.000] [LOG]   Loading config ...
+[08.10.2021 14:11.21.008] [LOG]   Loading module helpers ...
+[08.10.2021 14:11.21.029] [LOG]   Initializing new module helper ...
+[08.10.2021 14:11.21.031] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 14:11.21.033] [LOG]   No helper found for module: helloworld.
+[08.10.2021 14:11.21.034] [LOG]   All module helpers loaded.
+[08.10.2021 14:11.21.222] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 14:11.21.245] [LOG]   Server started ...
+[08.10.2021 14:11.21.246] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 14:11.21.247] [LOG]   Sockets connected & modules started ...
+[08.10.2021 14:11.22.700] [LOG]   Launching application.
+[08.10.2021 14:11.24.666] [INFO]  Checking git for module: default
+[08.10.2021 14:22.45.718] [LOG]   Shutting down server...
+[08.10.2021 14:22.45.719] [LOG]   Stopping module helper: updatenotification
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 14:32.45.926] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 14:32.45.933] [LOG]   Loading config ...
+[08.10.2021 14:32.45.939] [LOG]   Loading module helpers ...
+[08.10.2021 14:32.45.941] [LOG]   No helper found for module: alert.
+[08.10.2021 14:32.45.958] [LOG]   Initializing new module helper ...
+[08.10.2021 14:32.45.959] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 14:32.45.960] [LOG]   No helper found for module: clock.
+[08.10.2021 14:32.46.114] [LOG]   Initializing new module helper ...
+[08.10.2021 14:32.46.115] [LOG]   Module helper loaded: calendar
+[08.10.2021 14:32.46.116] [LOG]   No helper found for module: compliments.
+[08.10.2021 14:32.46.117] [LOG]   No helper found for module: weather.
+[08.10.2021 14:32.46.149] [LOG]   Initializing new module helper ...
+[08.10.2021 14:32.46.150] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 14:32.46.151] [LOG]   All module helpers loaded.
+[08.10.2021 14:32.46.238] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 14:32.46.253] [LOG]   Server started ...
+[08.10.2021 14:32.46.254] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 14:32.46.256] [LOG]   Connecting socket for: calendar
+[08.10.2021 14:32.46.256] [LOG]   Starting node helper for: calendar
+[08.10.2021 14:32.46.257] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 14:32.46.258] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 14:32.46.259] [LOG]   Sockets connected & modules started ...
+[08.10.2021 14:32.46.534] [LOG]   Launching application.
+[08.10.2021 14:32.48.577] [LOG]   Create new calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics - Interval: 300000
+[08.10.2021 14:32.48.675] [LOG]   Create new newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[08.10.2021 14:32.48.714] [INFO]  Checking git for module: default
+[08.10.2021 14:32.50.255] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:32.50.268] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:37.51.827] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:37.52.176] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:41.40.446] [LOG]   Use existing calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[08.10.2021 14:41.40.449] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:41.40.570] [LOG]   Use existing newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[08.10.2021 14:41.40.571] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:41.41.399] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:41.42.127] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 14:43.24.876] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 14:43.24.884] [LOG]   Loading config ...
+[08.10.2021 14:43.24.892] [LOG]   Loading module helpers ...
+[08.10.2021 14:43.24.896] [LOG]   No helper found for module: alert.
+[08.10.2021 14:43.24.914] [LOG]   Initializing new module helper ...
+[08.10.2021 14:43.24.917] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 14:43.24.920] [LOG]   No helper found for module: clock.
+[08.10.2021 14:43.25.074] [LOG]   Initializing new module helper ...
+[08.10.2021 14:43.25.077] [LOG]   Module helper loaded: calendar
+[08.10.2021 14:43.25.080] [LOG]   No helper found for module: compliments.
+[08.10.2021 14:43.25.081] [LOG]   No helper found for module: weather.
+[08.10.2021 14:43.25.119] [LOG]   Initializing new module helper ...
+[08.10.2021 14:43.25.119] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 14:43.25.120] [LOG]   All module helpers loaded.
+[08.10.2021 14:43.25.207] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 14:43.25.222] [LOG]   Server started ...
+[08.10.2021 14:43.25.223] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 14:43.25.224] [LOG]   Connecting socket for: calendar
+[08.10.2021 14:43.25.225] [LOG]   Starting node helper for: calendar
+[08.10.2021 14:43.25.226] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 14:43.25.227] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 14:43.25.227] [LOG]   Sockets connected & modules started ...
+[08.10.2021 14:43.25.509] [LOG]   Launching application.
+[08.10.2021 14:43.27.556] [LOG]   Create new calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics - Interval: 300000
+[08.10.2021 14:43.27.652] [LOG]   Create new newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[08.10.2021 14:43.27.689] [INFO]  Checking git for module: default
+[08.10.2021 14:43.28.229] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:43.29.512] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:48.28.627] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:48.31.053] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:53.28.872] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:53.32.900] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 14:58.29.192] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 14:58.34.832] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:03.29.509] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:03.36.932] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:08.29.838] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:08.39.456] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:13.30.235] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:13.41.496] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:18.30.486] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:18.43.335] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:23.30.886] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:23.45.497] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:26.06.212] [LOG]   Use existing calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[08.10.2021 15:26.06.215] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:26.06.226] [LOG]   Use existing newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[08.10.2021 15:26.06.227] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:26.06.499] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:26.07.722] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 15:28.25.336] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 15:28.25.343] [LOG]   Loading config ...
+[08.10.2021 15:28.25.349] [LOG]   Loading module helpers ...
+[08.10.2021 15:28.25.351] [LOG]   No helper found for module: alert.
+[08.10.2021 15:28.25.367] [LOG]   Initializing new module helper ...
+[08.10.2021 15:28.25.369] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 15:28.25.370] [LOG]   No helper found for module: clock.
+[08.10.2021 15:28.25.523] [LOG]   Initializing new module helper ...
+[08.10.2021 15:28.25.524] [LOG]   Module helper loaded: calendar
+[08.10.2021 15:28.25.525] [LOG]   No helper found for module: compliments.
+[08.10.2021 15:28.25.526] [LOG]   No helper found for module: weather.
+[08.10.2021 15:28.25.557] [LOG]   Initializing new module helper ...
+[08.10.2021 15:28.25.558] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 15:28.25.558] [LOG]   All module helpers loaded.
+[08.10.2021 15:28.25.646] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 15:28.25.661] [LOG]   Server started ...
+[08.10.2021 15:28.25.662] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 15:28.25.663] [LOG]   Connecting socket for: calendar
+[08.10.2021 15:28.25.664] [LOG]   Starting node helper for: calendar
+[08.10.2021 15:28.25.665] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 15:28.25.666] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 15:28.25.667] [LOG]   Sockets connected & modules started ...
+[08.10.2021 15:28.25.940] [LOG]   Launching application.
+[08.10.2021 15:28.28.034] [LOG]   Create new calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics - Interval: 300000
+[08.10.2021 15:28.28.133] [LOG]   Create new newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[08.10.2021 15:28.28.169] [INFO]  Checking git for module: default
+[08.10.2021 15:28.28.748] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:28.29.423] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:28.59.297] [LOG]   Use existing calendarfetcher for url: http://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics
+[08.10.2021 15:28.59.298] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:28.59.421] [LOG]   Use existing newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[08.10.2021 15:28.59.422] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:29.00.618] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:29.01.442] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:34.01.175] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:34.03.298] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:39.01.604] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:39.05.160] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:44.01.971] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:44.07.094] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:49.02.214] [INFO]  Newsfeed-Fetcher: Broadcasting 54 items.
+[08.10.2021 15:49.09.028] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:54.02.533] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 15:54.10.697] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 15:59.02.701] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 15:59.12.587] [INFO]  Calendar-Fetcher: Broadcasting 5 events.
+[08.10.2021 16:00.49.704] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 16:00.49.823] [LOG]   Use existing newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml
+[08.10.2021 16:00.49.824] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 16:00.50.207] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 16:00.50.871] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 16:03.42.763] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 16:03.42.770] [LOG]   Loading config ...
+[08.10.2021 16:03.42.776] [LOG]   Loading module helpers ...
+[08.10.2021 16:03.42.778] [LOG]   No helper found for module: alert.
+[08.10.2021 16:03.42.795] [LOG]   Initializing new module helper ...
+[08.10.2021 16:03.42.796] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 16:03.42.797] [LOG]   No helper found for module: clock.
+[08.10.2021 16:03.42.950] [LOG]   Initializing new module helper ...
+[08.10.2021 16:03.42.951] [LOG]   Module helper loaded: calendar
+[08.10.2021 16:03.42.952] [LOG]   No helper found for module: compliments.
+[08.10.2021 16:03.42.953] [LOG]   No helper found for module: weather.
+[08.10.2021 16:03.42.984] [LOG]   Initializing new module helper ...
+[08.10.2021 16:03.42.984] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 16:03.42.985] [LOG]   All module helpers loaded.
+[08.10.2021 16:03.43.072] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 16:03.43.087] [LOG]   Server started ...
+[08.10.2021 16:03.43.088] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 16:03.43.089] [LOG]   Connecting socket for: calendar
+[08.10.2021 16:03.43.090] [LOG]   Starting node helper for: calendar
+[08.10.2021 16:03.43.091] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 16:03.43.092] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 16:03.43.092] [LOG]   Sockets connected & modules started ...
+[08.10.2021 16:03.43.365] [LOG]   Launching application.
+[08.10.2021 16:03.45.429] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 16:03.45.523] [LOG]   Create new newsfetcher for url: https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml - Interval: 300000
+[08.10.2021 16:03.45.534] [INFO]  Checking git for module: default
+[08.10.2021 16:03.46.260] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 16:03.46.929] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:08.46.986] [INFO]  Newsfeed-Fetcher: Broadcasting 55 items.
+[08.10.2021 16:08.48.177] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:08.54.559] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[08.10.2021 16:08.54.560] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:08.54.567] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 16:08.54.770] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:08.55.717] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 16:09.42.152] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 16:09.42.159] [LOG]   Loading config ...
+[08.10.2021 16:09.42.165] [LOG]   Loading module helpers ...
+[08.10.2021 16:09.42.168] [LOG]   No helper found for module: alert.
+[08.10.2021 16:09.42.184] [LOG]   Initializing new module helper ...
+[08.10.2021 16:09.42.185] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 16:09.42.186] [LOG]   No helper found for module: clock.
+[08.10.2021 16:09.42.340] [LOG]   Initializing new module helper ...
+[08.10.2021 16:09.42.341] [LOG]   Module helper loaded: calendar
+[08.10.2021 16:09.42.342] [LOG]   No helper found for module: compliments.
+[08.10.2021 16:09.42.343] [LOG]   No helper found for module: weather.
+[08.10.2021 16:09.42.374] [LOG]   Initializing new module helper ...
+[08.10.2021 16:09.42.375] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 16:09.42.375] [LOG]   All module helpers loaded.
+[08.10.2021 16:09.42.463] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 16:09.42.478] [LOG]   Server started ...
+[08.10.2021 16:09.42.479] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 16:09.42.481] [LOG]   Connecting socket for: calendar
+[08.10.2021 16:09.42.481] [LOG]   Starting node helper for: calendar
+[08.10.2021 16:09.42.482] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 16:09.42.483] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 16:09.42.484] [LOG]   Sockets connected & modules started ...
+[08.10.2021 16:09.42.756] [LOG]   Launching application.
+[08.10.2021 16:09.44.850] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 16:09.44.948] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 16:09.44.959] [INFO]  Checking git for module: default
+[08.10.2021 16:09.45.488] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:09.46.295] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:10.12.604] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[08.10.2021 16:10.12.608] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:10.12.624] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[08.10.2021 16:10.12.633] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:10.12.983] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:10.13.723] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:15.13.318] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:15.14.814] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:20.13.501] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:20.15.727] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:25.13.687] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:25.16.617] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:30.13.897] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:30.17.530] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:35.14.090] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:35.18.353] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:36.55.171] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[08.10.2021 16:36.55.171] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:36.55.192] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[08.10.2021 16:36.55.198] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:36.55.389] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:36.56.764] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 16:38.06.024] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 16:38.06.033] [LOG]   Loading config ...
+[08.10.2021 16:38.06.040] [LOG]   Loading module helpers ...
+[08.10.2021 16:38.06.044] [LOG]   No helper found for module: alert.
+[08.10.2021 16:38.06.061] [LOG]   Initializing new module helper ...
+[08.10.2021 16:38.06.063] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 16:38.06.064] [LOG]   No helper found for module: clock.
+[08.10.2021 16:38.06.218] [LOG]   Initializing new module helper ...
+[08.10.2021 16:38.06.219] [LOG]   Module helper loaded: calendar
+[08.10.2021 16:38.06.220] [LOG]   No helper found for module: compliments.
+[08.10.2021 16:38.06.221] [LOG]   No helper found for module: weather.
+[08.10.2021 16:38.06.251] [LOG]   Initializing new module helper ...
+[08.10.2021 16:38.06.252] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 16:38.06.253] [LOG]   No helper found for module: MMM-AirQuality.
+[08.10.2021 16:38.06.253] [LOG]   All module helpers loaded.
+[08.10.2021 16:38.06.342] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 16:38.06.357] [LOG]   Server started ...
+[08.10.2021 16:38.06.358] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 16:38.06.360] [LOG]   Connecting socket for: calendar
+[08.10.2021 16:38.06.360] [LOG]   Starting node helper for: calendar
+[08.10.2021 16:38.06.361] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 16:38.06.362] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 16:38.06.363] [LOG]   Sockets connected & modules started ...
+[08.10.2021 16:38.06.640] [LOG]   Launching application.
+[08.10.2021 16:38.09.072] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 16:38.09.148] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 16:38.09.157] [INFO]  Checking git for module: default
+[08.10.2021 16:38.09.189] [INFO]  Checking git for module: MMM-AirQuality
+[08.10.2021 16:38.09.510] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:38.10.282] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:38.19.977] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[08.10.2021 16:38.19.978] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:38.20.026] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[08.10.2021 16:38.20.028] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:38.20.393] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:38.21.480] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:43.20.654] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:43.22.382] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:48.20.834] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:48.23.338] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:53.21.024] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:53.24.296] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 16:58.21.200] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 16:58.25.227] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:03.21.380] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:03.26.085] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:08.21.562] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:08.26.996] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 17:02.17.428] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 17:02.17.435] [LOG]   Loading config ...
+[08.10.2021 17:02.17.445] [LOG]   Loading module helpers ...
+[08.10.2021 17:02.17.448] [LOG]   No helper found for module: alert.
+[08.10.2021 17:02.17.469] [LOG]   Initializing new module helper ...
+[08.10.2021 17:02.17.470] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 17:02.17.472] [LOG]   No helper found for module: clock.
+[08.10.2021 17:02.17.734] [LOG]   Initializing new module helper ...
+[08.10.2021 17:02.17.734] [LOG]   Module helper loaded: calendar
+[08.10.2021 17:02.17.737] [LOG]   No helper found for module: compliments.
+[08.10.2021 17:02.17.739] [LOG]   No helper found for module: weather.
+[08.10.2021 17:02.17.794] [LOG]   Initializing new module helper ...
+[08.10.2021 17:02.17.795] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 17:02.17.797] [LOG]   No helper found for module: MMM-AirQuality.
+[08.10.2021 17:02.17.798] [LOG]   All module helpers loaded.
+[08.10.2021 17:02.17.964] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 17:02.17.987] [LOG]   Server started ...
+[08.10.2021 17:02.17.989] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 17:02.17.990] [LOG]   Connecting socket for: calendar
+[08.10.2021 17:02.17.991] [LOG]   Starting node helper for: calendar
+[08.10.2021 17:02.17.992] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 17:02.17.992] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 17:02.17.993] [LOG]   Sockets connected & modules started ...
+[08.10.2021 17:02.19.452] [LOG]   Launching application.
+[08.10.2021 17:02.22.170] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 17:02.22.249] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 17:02.22.263] [INFO]  Checking git for module: default
+[08.10.2021 17:02.22.301] [INFO]  Checking git for module: MMM-AirQuality
+[08.10.2021 17:02.22.632] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:02.23.230] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:14.26.907] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[08.10.2021 17:14.26.908] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:14.27.001] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[08.10.2021 17:14.27.002] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:14.27.570] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:14.28.356] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:19.27.877] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:19.29.877] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:24.28.218] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:24.31.166] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:29.28.560] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:29.32.101] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:34.28.905] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:34.33.026] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:39.29.244] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:39.33.905] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:44.29.613] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:44.34.733] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:49.29.955] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:49.35.606] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[08.10.2021 17:54.30.313] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:54.36.449] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 17:47.13.128] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 17:47.13.135] [LOG]   Loading config ...
+[08.10.2021 17:47.13.144] [LOG]   Loading module helpers ...
+[08.10.2021 17:47.13.146] [LOG]   No helper found for module: alert.
+[08.10.2021 17:47.13.167] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.168] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 17:47.13.170] [LOG]   No helper found for module: clock.
+[08.10.2021 17:47.13.413] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.414] [LOG]   Module helper loaded: calendar
+[08.10.2021 17:47.13.415] [LOG]   No helper found for module: compliments.
+[08.10.2021 17:47.13.417] [LOG]   No helper found for module: weather.
+[08.10.2021 17:47.13.470] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.472] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 17:47.13.474] [LOG]   No helper found for module: MMM-AirQuality.
+[08.10.2021 17:47.13.477] [LOG]   All module helpers loaded.
+[08.10.2021 17:47.13.644] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 17:47.13.667] [LOG]   Server started ...
+[08.10.2021 17:47.13.669] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 17:47.13.670] [LOG]   Connecting socket for: calendar
+[08.10.2021 17:47.13.671] [LOG]   Starting node helper for: calendar
+[08.10.2021 17:47.13.671] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 17:47.13.672] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 17:47.13.673] [LOG]   Sockets connected & modules started ...
+[08.10.2021 17:47.15.114] [LOG]   Launching application.
+[08.10.2021 17:47.17.873] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 17:47.17.929] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 17:47.17.936] [INFO]  Checking git for module: default
+[08.10.2021 17:47.17.965] [INFO]  Checking git for module: MMM-AirQuality
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[08.10.2021 17:47.13.231] [LOG]   Starting MagicMirror: v2.17.1
+[08.10.2021 17:47.13.244] [LOG]   Loading config ...
+[08.10.2021 17:47.13.254] [LOG]   Loading module helpers ...
+[08.10.2021 17:47.13.257] [LOG]   No helper found for module: alert.
+[08.10.2021 17:47.13.278] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.279] [LOG]   Module helper loaded: updatenotification
+[08.10.2021 17:47.13.281] [LOG]   No helper found for module: clock.
+[08.10.2021 17:47.13.536] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.537] [LOG]   Module helper loaded: calendar
+[08.10.2021 17:47.13.539] [LOG]   No helper found for module: compliments.
+[08.10.2021 17:47.13.541] [LOG]   No helper found for module: weather.
+[08.10.2021 17:47.13.598] [LOG]   Initializing new module helper ...
+[08.10.2021 17:47.13.599] [LOG]   Module helper loaded: newsfeed
+[08.10.2021 17:47.13.600] [LOG]   No helper found for module: MMM-AirQuality.
+[08.10.2021 17:47.13.601] [LOG]   All module helpers loaded.
+[08.10.2021 17:47.13.776] [LOG]   Starting server on port 8080 ... 
+[08.10.2021 17:47.13.799] [LOG]   Server started ...
+[08.10.2021 17:47.13.801] [LOG]   Connecting socket for: updatenotification
+[08.10.2021 17:47.13.802] [LOG]   Connecting socket for: calendar
+[08.10.2021 17:47.13.803] [LOG]   Starting node helper for: calendar
+[08.10.2021 17:47.13.804] [LOG]   Connecting socket for: newsfeed
+[08.10.2021 17:47.13.805] [LOG]   Starting node helper for: newsfeed
+[08.10.2021 17:47.13.805] [LOG]   Sockets connected & modules started ...
+[08.10.2021 17:47.15.234] [LOG]   Launching application.
+[08.10.2021 17:47.18.038] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[08.10.2021 17:47.18.138] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[08.10.2021 17:47.18.149] [INFO]  Checking git for module: default
+[08.10.2021 17:47.18.179] [INFO]  Checking git for module: MMM-AirQuality
+[08.10.2021 17:47.18.896] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[08.10.2021 17:47.19.931] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 21:52.02.275] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 21:52.04.005] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 21:55.10.634] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[16.10.2021 21:55.10.635] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 21:55.10.642] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[16.10.2021 21:55.10.643] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 21:55.10.808] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 21:55.11.856] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:00.11.011] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:00.12.866] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[16.10.2021 21:58.43.226] [LOG]   Starting MagicMirror: v2.17.1
+[16.10.2021 21:58.43.234] [LOG]   Loading config ...
+[16.10.2021 21:58.43.244] [LOG]   Loading module helpers ...
+[16.10.2021 21:58.43.248] [LOG]   No helper found for module: alert.
+[16.10.2021 21:58.43.272] [LOG]   Initializing new module helper ...
+[16.10.2021 21:58.43.274] [LOG]   Module helper loaded: updatenotification
+[16.10.2021 21:58.43.276] [LOG]   No helper found for module: clock.
+[16.10.2021 21:58.43.539] [LOG]   Initializing new module helper ...
+[16.10.2021 21:58.43.541] [LOG]   Module helper loaded: calendar
+[16.10.2021 21:58.43.542] [LOG]   No helper found for module: weather.
+[16.10.2021 21:58.43.598] [LOG]   Initializing new module helper ...
+[16.10.2021 21:58.43.599] [LOG]   Module helper loaded: newsfeed
+[16.10.2021 21:58.43.600] [LOG]   No helper found for module: MMM-AirQuality.
+[16.10.2021 21:58.43.601] [LOG]   All module helpers loaded.
+[16.10.2021 21:58.43.774] [LOG]   Starting server on port 8080 ... 
+[16.10.2021 21:58.43.797] [LOG]   Server started ...
+[16.10.2021 21:58.43.799] [LOG]   Connecting socket for: updatenotification
+[16.10.2021 21:58.43.800] [LOG]   Connecting socket for: calendar
+[16.10.2021 21:58.43.801] [LOG]   Starting node helper for: calendar
+[16.10.2021 21:58.43.802] [LOG]   Connecting socket for: newsfeed
+[16.10.2021 21:58.43.802] [LOG]   Starting node helper for: newsfeed
+[16.10.2021 21:58.43.803] [LOG]   Sockets connected & modules started ...
+[16.10.2021 21:58.45.227] [LOG]   Launching application.
+[16.10.2021 21:58.47.901] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[16.10.2021 21:58.48.003] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[16.10.2021 21:58.48.023] [INFO]  Checking git for module: default
+[16.10.2021 21:58.48.057] [INFO]  Checking git for module: MMM-AirQuality
+[16.10.2021 21:58.48.375] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 21:58.49.095] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:07.27.615] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:07.29.053] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:12.27.771] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:12.29.932] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:17.27.952] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:17.30.832] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:22.28.091] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:22.31.701] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:27.28.250] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:27.32.644] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:32.28.425] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:32.33.489] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[16.10.2021 22:37.28.595] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:37.34.394] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[16.10.2021 22:36.30.242] [LOG]   Starting MagicMirror: v2.17.1
+[16.10.2021 22:36.30.251] [LOG]   Loading config ...
+[16.10.2021 22:36.30.261] [LOG]   Loading module helpers ...
+[16.10.2021 22:36.30.264] [LOG]   No helper found for module: alert.
+[16.10.2021 22:36.30.287] [LOG]   Initializing new module helper ...
+[16.10.2021 22:36.30.289] [LOG]   Module helper loaded: updatenotification
+[16.10.2021 22:36.30.291] [LOG]   No helper found for module: clock.
+[16.10.2021 22:36.30.554] [LOG]   Initializing new module helper ...
+[16.10.2021 22:36.30.555] [LOG]   Module helper loaded: calendar
+[16.10.2021 22:36.30.557] [LOG]   No helper found for module: weather.
+[16.10.2021 22:36.30.609] [LOG]   Initializing new module helper ...
+[16.10.2021 22:36.30.610] [LOG]   Module helper loaded: newsfeed
+[16.10.2021 22:36.30.611] [LOG]   No helper found for module: MMM-AirQuality.
+[16.10.2021 22:36.30.612] [LOG]   All module helpers loaded.
+[16.10.2021 22:36.30.789] [LOG]   Starting server on port 8080 ... 
+[16.10.2021 22:36.30.814] [LOG]   Server started ...
+[16.10.2021 22:36.30.816] [LOG]   Connecting socket for: updatenotification
+[16.10.2021 22:36.30.817] [LOG]   Connecting socket for: calendar
+[16.10.2021 22:36.30.818] [LOG]   Starting node helper for: calendar
+[16.10.2021 22:36.30.819] [LOG]   Connecting socket for: newsfeed
+[16.10.2021 22:36.30.820] [LOG]   Starting node helper for: newsfeed
+[16.10.2021 22:36.30.820] [LOG]   Sockets connected & modules started ...
+[16.10.2021 22:36.32.305] [LOG]   Launching application.
+[16.10.2021 22:36.34.944] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[16.10.2021 22:36.35.033] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[16.10.2021 22:36.35.043] [INFO]  Checking git for module: default
+[16.10.2021 22:36.35.077] [INFO]  Checking git for module: MMM-AirQuality
+[16.10.2021 22:36.35.431] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[16.10.2021 22:36.36.242] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:15.18.572] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:15.19.321] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:20.18.721] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:20.20.238] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:25.18.885] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:25.21.112] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:30.19.067] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:30.21.996] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:35.19.263] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:35.22.883] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:40.19.420] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:40.23.799] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:45.19.588] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:45.24.639] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:50.19.724] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:50.25.493] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 19:55.19.894] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 19:55.26.428] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:00.20.043] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:00.27.419] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:05.20.224] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:05.28.351] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:10.20.400] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:10.29.776] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:15.20.594] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:15.30.722] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:20.20.753] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:20.31.663] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:25.20.983] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:25.32.683] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:30.21.169] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:30.33.624] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:35.21.365] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:35.34.564] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:40.21.534] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:40.35.535] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:45.21.704] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:45.36.384] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:50.21.856] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:50.37.327] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 20:55.22.025] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 20:55.38.244] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:00.22.205] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:00.39.163] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:05.22.387] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:05.40.082] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:10.22.583] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:10.41.035] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:15.22.747] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:15.41.872] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:20.22.925] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:20.42.784] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:25.23.108] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:25.43.665] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:30.24.125] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:30.44.594] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:35.24.290] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:35.45.487] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:40.24.434] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:40.46.379] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:45.24.599] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:45.47.303] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:50.24.768] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:50.48.246] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 21:55.24.958] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:55.50.613] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:00.25.144] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:00.51.480] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:05.25.277] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:05.52.340] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:10.25.481] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:10.53.193] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[29.10.2021 21:27.16.424] [LOG]   Starting MagicMirror: v2.17.1
+[29.10.2021 21:27.16.434] [LOG]   Loading config ...
+[29.10.2021 21:27.16.443] [LOG]   Loading module helpers ...
+[29.10.2021 21:27.16.446] [LOG]   No helper found for module: alert.
+[29.10.2021 21:27.16.468] [LOG]   Initializing new module helper ...
+[29.10.2021 21:27.16.469] [LOG]   Module helper loaded: updatenotification
+[29.10.2021 21:27.16.471] [LOG]   No helper found for module: clock.
+[29.10.2021 21:27.16.733] [LOG]   Initializing new module helper ...
+[29.10.2021 21:27.16.734] [LOG]   Module helper loaded: calendar
+[29.10.2021 21:27.16.736] [LOG]   No helper found for module: weather.
+[29.10.2021 21:27.16.792] [LOG]   Initializing new module helper ...
+[29.10.2021 21:27.16.792] [LOG]   Module helper loaded: newsfeed
+[29.10.2021 21:27.16.794] [LOG]   No helper found for module: MMM-AirQuality.
+[29.10.2021 21:27.16.795] [LOG]   All module helpers loaded.
+[29.10.2021 21:27.16.969] [LOG]   Starting server on port 8080 ... 
+[29.10.2021 21:27.16.992] [LOG]   Server started ...
+[29.10.2021 21:27.16.993] [LOG]   Connecting socket for: updatenotification
+[29.10.2021 21:27.16.994] [LOG]   Connecting socket for: calendar
+[29.10.2021 21:27.16.995] [LOG]   Starting node helper for: calendar
+[29.10.2021 21:27.16.996] [LOG]   Connecting socket for: newsfeed
+[29.10.2021 21:27.16.997] [LOG]   Starting node helper for: newsfeed
+[29.10.2021 21:27.16.998] [LOG]   Sockets connected & modules started ...
+[29.10.2021 21:27.18.543] [LOG]   Launching application.
+[29.10.2021 21:27.21.202] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[29.10.2021 21:27.21.325] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[29.10.2021 21:27.21.335] [INFO]  Checking git for module: default
+[29.10.2021 21:27.21.375] [INFO]  Checking git for module: MMM-AirQuality
+[29.10.2021 21:27.21.758] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 21:27.22.414] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:19.59.408] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:20.00.863] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:24.59.557] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:25.01.770] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:29.59.738] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:30.02.716] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:34.59.921] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:35.03.605] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:40.00.126] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:40.04.567] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:45.00.290] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:45.05.444] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:50.00.484] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:50.06.384] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 22:55.00.696] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 22:55.07.325] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:00.00.870] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:00.08.505] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:05.01.029] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:05.09.906] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:10.01.166] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:10.11.238] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:15.01.331] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:15.12.151] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:20.01.514] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:20.13.071] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:25.01.661] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:25.13.937] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:30.01.844] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:30.14.845] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:35.02.001] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:35.15.770] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:40.02.185] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:40.16.659] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:45.02.349] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:45.17.576] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:50.02.515] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:50.18.614] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[29.10.2021 23:55.02.692] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:55.19.451] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:00.02.874] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:00.20.378] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[29.10.2021 23:23.09.909] [LOG]   Starting MagicMirror: v2.17.1
+[29.10.2021 23:23.09.917] [LOG]   Loading config ...
+[29.10.2021 23:23.09.932] [LOG]   Loading module helpers ...
+[29.10.2021 23:23.09.935] [LOG]   No helper found for module: alert.
+[29.10.2021 23:23.09.957] [LOG]   Initializing new module helper ...
+[29.10.2021 23:23.09.959] [LOG]   Module helper loaded: updatenotification
+[29.10.2021 23:23.09.961] [LOG]   No helper found for module: clock.
+[29.10.2021 23:23.10.225] [LOG]   Initializing new module helper ...
+[29.10.2021 23:23.10.226] [LOG]   Module helper loaded: calendar
+[29.10.2021 23:23.10.228] [LOG]   No helper found for module: weather.
+[29.10.2021 23:23.10.280] [LOG]   Initializing new module helper ...
+[29.10.2021 23:23.10.281] [LOG]   Module helper loaded: newsfeed
+[29.10.2021 23:23.10.283] [LOG]   No helper found for module: MMM-AirQuality.
+[29.10.2021 23:23.10.284] [LOG]   All module helpers loaded.
+[29.10.2021 23:23.10.458] [LOG]   Starting server on port 8080 ... 
+[29.10.2021 23:23.10.481] [LOG]   Server started ...
+[29.10.2021 23:23.10.482] [LOG]   Connecting socket for: updatenotification
+[29.10.2021 23:23.10.483] [LOG]   Connecting socket for: calendar
+[29.10.2021 23:23.10.484] [LOG]   Starting node helper for: calendar
+[29.10.2021 23:23.10.485] [LOG]   Connecting socket for: newsfeed
+[29.10.2021 23:23.10.486] [LOG]   Starting node helper for: newsfeed
+[29.10.2021 23:23.10.487] [LOG]   Sockets connected & modules started ...
+[29.10.2021 23:23.12.014] [LOG]   Launching application.
+[29.10.2021 23:23.14.658] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[29.10.2021 23:23.14.758] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[29.10.2021 23:23.14.790] [INFO]  Checking git for module: default
+[29.10.2021 23:23.14.827] [INFO]  Checking git for module: MMM-AirQuality
+[29.10.2021 23:23.15.164] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[29.10.2021 23:23.15.906] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:07.32.712] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:07.34.184] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:12.32.858] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:12.35.170] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:17.33.035] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:17.36.127] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:22.33.206] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:22.37.063] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:27.33.374] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:27.38.047] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:32.33.571] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:32.39.079] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:37.33.760] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:37.40.301] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:42.33.934] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:42.41.704] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:47.34.105] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:47.42.806] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:52.34.273] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:52.43.669] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 00:57.34.455] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 00:57.44.576] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:02.34.634] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:02.45.531] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:07.34.804] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:07.47.016] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:12.34.963] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:12.47.854] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:17.35.144] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:17.48.848] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:22.35.319] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:22.49.752] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:27.35.496] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:27.50.674] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:32.35.661] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:32.51.615] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:37.35.822] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:37.52.639] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:42.36.000] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:42.53.541] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:47.36.164] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:47.54.357] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:52.36.338] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:52.55.161] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 01:57.36.505] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 01:57.55.992] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:02.36.670] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:02.57.522] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:07.36.837] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:07.58.409] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:12.37.004] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:12.59.317] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:17.37.176] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:18.00.326] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:22.37.337] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:23.01.182] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:27.37.518] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:28.02.018] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:32.37.687] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:33.02.859] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:37.37.855] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:38.03.836] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:42.38.035] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:43.04.741] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:47.38.204] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:48.05.692] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:52.38.397] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:53.06.598] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 02:57.38.557] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 02:58.07.512] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:02.38.716] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:03.08.336] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:07.39.010] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:08.09.190] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:12.39.246] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:13.10.124] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:17.39.538] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:18.10.970] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:22.39.855] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:23.11.866] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:27.40.182] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:28.12.770] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:32.40.545] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:33.13.605] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:37.40.888] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:38.14.502] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:42.41.235] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:43.15.391] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:47.41.613] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:48.16.269] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:52.41.944] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:53.17.106] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 03:57.42.282] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 03:58.18.007] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:02.42.615] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:03.18.889] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:07.42.853] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:08.19.766] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:12.43.022] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:13.20.652] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:17.43.181] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:18.21.571] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:22.43.354] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:23.22.531] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:27.43.516] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:28.23.391] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:32.43.696] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:33.24.270] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:37.43.836] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:38.25.162] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:42.44.010] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:43.26.058] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 04:47.44.159] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 04:48.26.890] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[30.10.2021 04:18.29.440] [LOG]   Starting MagicMirror: v2.17.1
+[30.10.2021 04:18.29.449] [LOG]   Loading config ...
+[30.10.2021 04:18.29.461] [LOG]   Loading module helpers ...
+[30.10.2021 04:18.29.464] [LOG]   No helper found for module: alert.
+[30.10.2021 04:18.29.497] [LOG]   Initializing new module helper ...
+[30.10.2021 04:18.29.499] [LOG]   Module helper loaded: updatenotification
+[30.10.2021 04:18.29.501] [LOG]   No helper found for module: clock.
+[30.10.2021 04:18.29.777] [LOG]   Initializing new module helper ...
+[30.10.2021 04:18.29.778] [LOG]   Module helper loaded: calendar
+[30.10.2021 04:18.29.780] [LOG]   No helper found for module: weather.
+[30.10.2021 04:18.29.787] [LOG]   Loading module helpers ...
+[30.10.2021 04:18.29.788] [LOG]   No helper found for module: alert.
+[30.10.2021 04:18.29.789] [LOG]   Initializing new module helper ...
+[30.10.2021 04:18.29.789] [LOG]   Module helper loaded: updatenotification
+[30.10.2021 04:18.29.790] [LOG]   No helper found for module: clock.
+[30.10.2021 04:18.29.791] [LOG]   Initializing new module helper ...
+[30.10.2021 04:18.29.792] [LOG]   Module helper loaded: calendar
+[30.10.2021 04:18.29.793] [LOG]   No helper found for module: weather.
+[30.10.2021 04:18.31.253] [LOG]   Launching application.
+
+> magicmirror@2.17.1 start /home/pi/MagicMirror
+> DISPLAY="${DISPLAY:=:0}" ./node_modules/.bin/electron js/electron.js
+
+[30.10.2021 06:17.16.381] [LOG]   Starting MagicMirror: v2.17.1
+[30.10.2021 06:17.16.390] [LOG]   Loading config ...
+[30.10.2021 06:17.16.401] [LOG]   Loading module helpers ...
+[30.10.2021 06:17.16.405] [LOG]   No helper found for module: alert.
+[30.10.2021 06:17.16.432] [LOG]   Initializing new module helper ...
+[30.10.2021 06:17.16.434] [LOG]   Module helper loaded: updatenotification
+[30.10.2021 06:17.16.437] [LOG]   No helper found for module: clock.
+[30.10.2021 06:17.16.738] [LOG]   Initializing new module helper ...
+[30.10.2021 06:17.16.740] [LOG]   Module helper loaded: calendar
+[30.10.2021 06:17.16.741] [LOG]   No helper found for module: weather.
+[30.10.2021 06:17.16.794] [LOG]   Initializing new module helper ...
+[30.10.2021 06:17.16.795] [LOG]   Module helper loaded: newsfeed
+[30.10.2021 06:17.16.797] [LOG]   No helper found for module: MMM-AirQuality.
+[30.10.2021 06:17.16.807] [LOG]   Initializing new module helper ...
+[30.10.2021 06:17.16.807] [LOG]   Module helper loaded: MMM-ArduPort
+[30.10.2021 06:17.16.808] [LOG]   All module helpers loaded.
+[30.10.2021 06:17.16.982] [LOG]   Starting server on port 8080 ... 
+[30.10.2021 06:17.17.006] [LOG]   Server started ...
+[30.10.2021 06:17.17.007] [LOG]   Connecting socket for: updatenotification
+[30.10.2021 06:17.17.008] [LOG]   Connecting socket for: calendar
+[30.10.2021 06:17.17.009] [LOG]   Starting node helper for: calendar
+[30.10.2021 06:17.17.010] [LOG]   Connecting socket for: newsfeed
+[30.10.2021 06:17.17.011] [LOG]   Starting node helper for: newsfeed
+[30.10.2021 06:17.17.012] [LOG]   Connecting socket for: MMM-ArduPort
+[30.10.2021 06:17.17.012] [LOG]   [MMM-ArduPort]:: Starting node_helper for module [MMM-ArduPort]
+[30.10.2021 06:17.17.013] [LOG]   Sockets connected & modules started ...
+[30.10.2021 06:17.18.455] [LOG]   Launching application.
+[30.10.2021 06:17.21.289] [LOG]   Create new calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics - Interval: 300000
+[30.10.2021 06:17.21.430] [LOG]   Create new newsfetcher for url: http://www.mbn.co.kr/rss/sports/ - Interval: 300000
+[30.10.2021 06:17.21.495] [INFO]  Checking git for module: default
+[30.10.2021 06:17.21.541] [INFO]  Checking git for module: MMM-AirQuality
+[30.10.2021 06:17.21.579] [INFO]  Checking git for module: MMM-ArduPort
+[30.10.2021 06:17.21.677] [LOG]   { debug: 'SerialPort shell started...' }
+[30.10.2021 06:17.21.678] [LOG]   undefined[MMM-ArduPort] SerialPort shell started...
+[30.10.2021 06:17.21.679] [LOG]   { debug: 'Waiting Ardunio to connect on port...' }
+[30.10.2021 06:17.21.680] [LOG]   undefined[MMM-ArduPort] Waiting Ardunio to connect on port...
+[30.10.2021 06:17.21.681] [LOG]   { status: { name: 'connect', data: 'connected' } }
+[30.10.2021 06:17.21.687] [LOG]   { name: 'connect', data: 'connected' }
+[30.10.2021 06:17.21.990] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 06:17.22.673] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 06:59.53.604] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 06:59.54.948] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:04.53.752] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:04.55.846] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:09.53.938] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:09.56.773] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:14.54.080] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:14.57.684] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:19.54.283] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:19.58.633] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:24.54.435] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:24.59.491] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:29.54.605] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:30.00.401] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:34.54.781] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:35.01.299] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:39.54.961] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:40.02.172] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:44.55.156] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:45.03.065] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:49.55.346] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:50.03.983] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:54.55.535] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 07:55.04.861] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 07:59.55.714] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:00.05.801] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:04.55.896] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:05.06.785] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:09.56.071] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:10.07.747] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:14.56.262] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:15.08.640] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:19.56.447] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:20.09.512] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:24.56.644] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:25.10.422] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:29.56.825] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:30.11.275] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:34.57.016] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:35.12.161] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:39.57.189] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:40.13.066] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:44.57.377] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:45.13.949] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:49.57.558] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:50.14.852] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:54.57.730] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 08:55.15.744] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 08:59.57.923] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:00.16.655] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:04.58.113] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:05.17.542] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:09.58.289] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:10.18.484] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:14.58.476] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:15.19.433] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:19.58.667] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:20.20.271] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:24.58.834] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:25.21.116] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:29.59.026] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:30.21.954] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:34.59.216] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:35.22.824] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:39.59.404] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:40.23.784] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:44.59.572] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:45.24.766] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:49.59.757] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:50.25.686] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 09:54.59.932] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 09:55.26.593] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:00.00.114] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:00.27.447] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:05.01.098] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:05.28.407] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:10.01.270] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:10.29.293] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:15.01.442] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:15.30.622] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:20.01.618] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:20.31.550] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:25.01.789] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:25.32.414] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:30.01.955] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:30.33.255] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:35.02.133] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:35.34.187] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:40.02.323] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:40.35.041] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:45.02.495] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:45.35.967] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:50.02.719] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:50.36.862] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 10:55.02.887] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 10:55.37.701] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:00.03.084] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:00.38.671] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:05.03.251] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:05.39.564] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:10.03.433] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:10.40.523] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:15.03.590] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:15.41.440] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:20.03.729] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:20.42.290] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:25.03.870] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:25.43.127] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:30.04.009] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:30.43.983] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:35.04.145] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:35.44.856] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:40.04.323] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:40.45.747] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:45.04.497] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:45.46.624] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:50.04.687] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:50.47.455] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 11:55.04.858] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 11:55.48.366] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:00.05.031] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:00.49.460] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:05.05.198] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:05.50.809] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:10.05.381] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:10.51.975] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:15.05.579] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:15.52.952] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:20.05.763] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:20.53.835] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:25.05.937] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:25.54.849] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:30.06.102] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:30.55.826] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:35.06.275] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:35.56.763] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:40.06.455] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:40.57.670] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:45.06.650] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:45.58.552] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:50.06.834] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:50.59.505] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 12:55.07.017] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 12:56.00.452] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:00.07.201] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:01.01.431] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:05.07.379] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:06.02.283] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:10.07.544] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:11.03.120] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:15.07.724] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:16.03.972] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:20.07.908] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:21.04.865] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:25.08.088] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:26.05.808] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:30.08.261] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:31.06.678] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:35.08.437] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:36.07.504] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:40.08.613] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:41.08.370] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:45.08.795] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:46.09.202] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:50.08.963] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:51.10.101] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 13:55.09.131] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 13:56.10.942] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:00.09.296] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:01.11.849] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:05.10.268] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:06.12.959] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:10.10.457] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:11.13.958] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:15.10.636] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:16.14.853] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:20.10.814] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:21.15.761] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:25.11.000] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:26.16.609] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:30.11.166] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:31.17.566] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:35.11.365] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:36.18.490] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:40.11.543] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:41.19.364] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:45.11.715] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:46.20.208] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:50.11.885] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:51.21.079] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 14:55.12.076] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 14:56.21.959] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:00.12.245] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:01.22.930] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:05.12.396] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:06.23.816] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:10.13.389] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:11.24.711] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:15.13.551] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:16.25.591] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:20.13.718] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:21.26.442] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:25.13.890] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:26.27.247] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:30.14.031] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:31.28.175] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:35.14.998] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:36.28.978] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:40.15.262] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:41.29.895] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:45.15.436] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:46.30.787] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:50.15.607] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:51.31.622] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 15:55.15.791] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 15:56.32.493] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:00.15.977] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:01.33.353] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:05.16.142] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:06.34.257] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:10.16.318] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:11.35.143] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:15.16.511] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:16.35.966] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:20.16.690] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:21.36.885] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:25.16.875] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:26.37.738] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:30.17.062] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:31.38.587] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:35.17.232] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:36.39.470] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:40.18.205] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:41.40.405] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:45.18.456] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:46.41.309] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:50.18.637] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:51.42.185] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 16:55.18.808] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 16:56.43.097] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:00.18.970] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:01.44.012] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:05.19.134] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:06.44.863] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:10.19.301] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:11.45.745] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:15.19.495] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:16.46.599] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:20.19.669] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:21.47.448] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:25.19.848] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:26.48.357] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:30.20.023] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:31.49.577] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:35.20.187] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:36.50.819] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:40.20.368] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:41.51.951] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:45.20.560] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:46.52.851] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:50.20.736] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:51.53.799] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 17:55.20.917] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 17:56.54.914] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:00.21.104] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:01.55.793] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:05.21.290] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:06.56.691] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:10.21.488] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:11.16.045] [LOG]   Use existing calendarfetcher for url: https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics
+[30.10.2021 18:11.16.046] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:11.16.064] [LOG]   Use existing newsfetcher for url: http://www.mbn.co.kr/rss/sports/
+[30.10.2021 18:11.16.065] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:11.16.328] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:11.16.359] [LOG]   { debug: 'SerialPort shell started...' }
+[30.10.2021 18:11.16.360] [LOG]   undefined[MMM-ArduPort] SerialPort shell started...
+[30.10.2021 18:11.16.361] [LOG]   { debug: 'Waiting Ardunio to connect on port...' }
+[30.10.2021 18:11.16.362] [LOG]   undefined[MMM-ArduPort] Waiting Ardunio to connect on port...
+[30.10.2021 18:11.16.364] [LOG]   { status: { name: 'connect', data: 'connected' } }
+[30.10.2021 18:11.16.365] [LOG]   { name: 'connect', data: 'connected' }
+[30.10.2021 18:11.17.191] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:16.16.494] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:16.18.113] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:21.16.664] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:21.18.894] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:26.16.826] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:26.19.816] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:31.16.948] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:31.20.714] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:36.17.134] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:36.21.649] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:41.17.304] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:41.22.547] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:46.17.490] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:46.23.462] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:51.17.649] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:51.24.349] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 18:56.17.822] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 18:56.25.217] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:01.17.992] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:01.26.154] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:06.18.158] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:06.27.227] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:11.18.333] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:11.28.122] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:16.18.500] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:16.29.038] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:21.18.670] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:21.29.877] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:26.18.852] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:26.30.768] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:31.19.030] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:31.31.623] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:36.19.196] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:36.32.553] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:41.19.331] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:41.33.412] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:46.20.311] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:46.34.281] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:51.20.504] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:51.35.205] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 19:56.20.689] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 19:56.36.201] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 20:01.20.859] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 20:01.37.038] [INFO]  Calendar-Fetcher: Broadcasting 2 events.
+[30.10.2021 20:06.21.044] [INFO]  Newsfeed-Fetcher: Broadcasting 30 items.
+[30.10.2021 20:06.37.888] [INFO]  Calendar-Fetcher: Broadcasting 2 events.

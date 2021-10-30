@@ -1,0 +1,101 @@
+[08.10.2021 13:54.58.428] [ERROR] [31mWARNING! Could not find config file. Please create one. Starting with default configuration.[39m
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+[08.10.2021 14:03.40.480] [ERROR] [31mWARNING! Could not find config file. Please create one. Starting with default configuration.[39m
+Gdk-Message: 14:11:05.165: electron: Fatal IO error 11 (자원이 일시적으로 사용 불가능함) on X server :0.
+
+[08.10.2021 14:11.21.006] [ERROR] [31mWARNING! Could not find config file. Please create one. Starting with default configuration.[39m
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+/home/pi/MagicMirror/node_modules/electron/dist/electron exited with signal SIGINT
+[08.10.2021 17:47.18.036] [ERROR] Calendar Error. Could not fetch calendar:  https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics FetchError: request to https://calendar.google.com/calendar/ical/xhals125%40gmail.com/private-eed5d3d1534736ba441cad3fa8a7d619/basic.ics failed, reason: getaddrinfo EAI_AGAIN calendar.google.com
+    at ClientRequest.<anonymous> (/home/pi/MagicMirror/node_modules/node-fetch/lib/index.js:1483:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:469:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  type: 'system',
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN'
+}
+[08.10.2021 17:47.18.041] [ERROR] Newsfeed Error. Could not fetch newsfeed:  http://www.mbn.co.kr/rss/sports/ FetchError: request to http://www.mbn.co.kr/rss/sports/ failed, reason: getaddrinfo EAI_AGAIN www.mbn.co.kr
+    at ClientRequest.<anonymous> (/home/pi/MagicMirror/node_modules/node-fetch/lib/index.js:1483:11)
+    at ClientRequest.emit (events.js:315:20)
+    at Socket.socketErrorListener (_http_client.js:469:9)
+    at Socket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:106:8)
+    at emitErrorCloseNT (internal/streams/destroy.js:74:3)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21) {
+  type: 'system',
+  errno: 'EAI_AGAIN',
+  code: 'EAI_AGAIN'
+}
+[08.10.2021 17:47.18.193] [ERROR] (node:769) UnhandledPromiseRejectionWarning: Error: Command failed: cd /home/pi/MagicMirror/modules/MMM-AirQuality && git fetch --dry-run
+fatal: unable to access 'https://github.com/CFenner/MMM-AirQuality/': Could not resolve host: github.com
+
+    at ChildProcess.exithandler (child_process.js:317:12)
+    at ChildProcess.emit (events.js:315:20)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Socket.<anonymous> (internal/child_process.js:439:11)
+    at Socket.emit (events.js:315:20)
+    at Pipe.<anonymous> (net.js:673:12)
+(Use `electron --trace-warnings ...` to show where the warning was created)
+[08.10.2021 17:47.18.194] [ERROR] (node:769) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). To terminate the node process on unhandled promise rejection, use the CLI flag `--unhandled-rejections=strict` (see https://nodejs.org/api/cli.html#cli_unhandled_rejections_mode). (rejection id: 1)
+[08.10.2021 17:47.18.195] [ERROR] (node:769) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[30.10.2021 04:18.29.785] [ERROR] [31mWARNING! Could not load config file. Starting with default configuration. Error found: Error: Cannot find module 'python-shell'[39m
+[31mRequire stack:[39m
+[31m- /home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js[39m
+[31m- /home/pi/MagicMirror/js/app.js[39m
+[31m- /home/pi/MagicMirror/js/electron.js[39m
+[31m- /home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js[39m
+[31m- [39m
+[30.10.2021 04:18.29.795] [ERROR] App threw an error during load
+[30.10.2021 04:18.29.798] [ERROR] Error: Cannot find module 'python-shell'
+Require stack:
+- /home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js
+- /home/pi/MagicMirror/js/app.js
+- /home/pi/MagicMirror/js/electron.js
+- /home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+    at Function.n._resolveFilename (electron/js2c/browser_init.js:257:1128)
+    at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/module-alias/index.js:49:29)
+    at Module._load (internal/modules/cjs/loader.js:732:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js:12:23)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10)
+[30.10.2021 04:18.29.799] [ERROR] Whoops! There was an uncaught exception...
+[30.10.2021 04:18.29.806] [ERROR] Error: Cannot find module 'python-shell'
+Require stack:
+- /home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js
+- /home/pi/MagicMirror/js/app.js
+- /home/pi/MagicMirror/js/electron.js
+- /home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js
+- 
+    at Module._resolveFilename (internal/modules/cjs/loader.js:887:15)
+    at Function.n._resolveFilename (electron/js2c/browser_init.js:257:1128)
+    at Function.Module._resolveFilename (/home/pi/MagicMirror/node_modules/module-alias/index.js:49:29)
+    at Module._load (internal/modules/cjs/loader.js:732:27)
+    at Function.f._load (electron/js2c/asar_bundle.js:5:12913)
+    at Module.require (internal/modules/cjs/loader.js:959:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js:12:23)
+    at Module._compile (internal/modules/cjs/loader.js:1078:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1108:10) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/pi/MagicMirror/modules/MMM-ArduPort/node_helper.js',
+    '/home/pi/MagicMirror/js/app.js',
+    '/home/pi/MagicMirror/js/electron.js',
+    '/home/pi/MagicMirror/node_modules/electron/dist/resources/default_app.asar/main.js',
+    undefined
+  ]
+}
+[30.10.2021 04:18.29.807] [ERROR] MagicMirror will not quit, but it might be a good idea to check why this happened. Maybe no internet connection?
+[30.10.2021 04:18.29.808] [ERROR] If you think this really is an issue, please open an issue on GitHub: https://github.com/MichMich/MagicMirror/issues
